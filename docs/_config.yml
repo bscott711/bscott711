@@ -22,7 +22,7 @@ title: Interactive Isosurfaces In BabylonJS
 email: brandon.scott@sdsmt.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This package provides a utility to add an interactive rendering environment to static HTML pages. Can be displayed inline as an iFrame so it can be a swap for a movie (.mp4/avi)
-domain: bscott711.github.io
+domain: ""
 baseurl: /bscott711 # the subpath of your site, e.g. /blog
 url: https://bscott711.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: minesbioimaging
